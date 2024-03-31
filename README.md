@@ -1,4 +1,4 @@
-# Development od document stamp and signature expertise system
+# Development of document stamp and signature expertise system
 
 
 1. `extract.py`: Contains functions for extracting stamps and signatures from document images.
