@@ -1,24 +1,21 @@
-# Development of document stamp and signature expertise system
+# Document Stamp and Signature Expertise System
+
+## Overview
+
+This repository contains scripts and notebooks for the development of a document stamp and signature expertise system. The system includes functionalities for extracting stamps and signatures from document images, separating stamps from signatures in overlapped images, and providing a graphical user interface (GUI) for interaction.
+
+## Contents
+
+1. `extract.py`: Functions for extracting stamps and signatures from document images.
+2. `separate.py`: Algorithms to separate stamps from signatures in overlapped images.
+3. `interface.py`: GUI for interacting with the system.
+4. `Methods for signature verification.ipynb`: Notebook providing classifier methods for signature verification.
+5. `Methods for stamp verification.ipynb`: Notebook providing classifier methods for stamp verification.
 
 
-1. `extract.py`: Contains functions for extracting stamps and signatures from document images.
-2. `separate.py`: Implements algorithms to separate stamps from signatures in overlapped images.
-3. `interface.py`: Provides a graphical user interface (GUI) for interacting with the system.
-4. `Methods for signature verification.ipynb`: This notebook provides classifier methods for signature verification.
+## Datasets
 
-## Signature Verification Dataset
-The Signature Verification Dataset used in Methods for signature verification notebook can be found on [Kaggle](https://www.kaggle.com/datasets/robinreni/signature-verification-dataset/data).
-
-
-
-## Usage
-
-To use the system:
-
-1. Run `interface.py` to open the GUI.
-3. Load an image using the "Load Image" button.
-4. Use the "Detect Automatically" button to automatically detect stamps and signatures in the loaded image.
-5. Use the "Separate Stamps and Signature" button to separate stamps and signatures.
-
+- **Signature Verification Dataset:** Available on [Kaggle](https://www.kaggle.com/datasets/robinreni/signature-verification-dataset/data).
+- **Stamp Verification Dataset:** Data is located in the "stamp_data" folder.
 
 
