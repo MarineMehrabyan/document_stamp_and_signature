@@ -1,1 +1,1 @@
-# Document stamps and signatures detection and validation project. 
+# Development od document stamp and signature expertise system
