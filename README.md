@@ -15,7 +15,7 @@ This repository contains scripts and notebooks for the development of a document
 
 ## Datasets
 
-- **Signature Verification Dataset:** Available on [Kaggle](https://www.kaggle.com/datasets/robinreni/signature-verification-dataset/data).
+- **Signature Verification Dataset:** Data is located in the "signature_data" folder.
 - **Stamp Verification Dataset:** Data is located in the "stamp_data" folder.
 
 
