@@ -14,8 +14,7 @@ This repository contains scripts and notebooks for the development of a document
 
 
 ## Datasets
+Datasets are located 
 
-- **Signature Verification Dataset:** Data is located in the "signature_data" folder.
-- **Stamp Verification Dataset:** Data is located in the "stamp_data" folder.
 
 
